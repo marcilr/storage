@@ -10,7 +10,12 @@ bootable-usb.txt
 
 boot-disk/
 drives/
+
 encrypted-filesystem/
+  Encrypted filesystems:
+    encfs
+    ecryptfs
+
 filesystem/
 
 glossary.txt
