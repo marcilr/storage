@@ -1,0 +1,69 @@
+glossary.txt
+Created Tue Aug 26 07:54:00 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for storage
+
+
+AHCI - The Advanced Host Controller Interface (AHCI) is a technical standard
+  defined by Intel that specifies the operation of Serial ATA (SATA) host bus
+  adapters in a non-implementation-specific manner.
+
+  The specification describes a system memory structure for computer hardwar
+  vendors to exchange data between host system memory and attached storage
+  devices.  AHCI gives software developers and hardware designers a standard 
+  method for detecting, configuring, and programming SATA/AHCI adapters.  AHCI
+  is separate from the SATA 3 Gbit/s standard, although it exposes SATA's
+  advanced capabilities (such as hot swapping and native command queuing) such
+  that host systems can utilize them.
+  
+  http://en.wikipedia.org/wiki/Advanced_Host_Controller_Interface
+
+UUID - Universally Unique Identifier (UUID) is an identifier standard used in
+  software construction.  A UUID is simply a 128-bit value.  The meaning of
+  each bit is defined by any of several variants.
+
+  For human-readable display, many systems use a canonical format using
+  hexadecimal text with inserted hyphen characters.  For example:
+    de305d54-75b4-431b-adb2-eb6b9e546013
+
+  The intent of UUIDs is to enable distributed systems to uniquely identify
+  information without significant central coordination.  In this context the
+  word unique should be taken to mean "practically unique" rather than
+  "guaranteed unique".  Since the identifiers have a finite size, it is
+  possible for two differing items to share the same identifier.  The
+  identifier size and generation process need to be selected so as to make
+  this sufficiently improbable in practice.  Anyone can create a UUID and use
+  it to identify something with reasonable confidence that the same
+  identifier will never be unintentionally created by anyone to identify
+  something else.  Information labeled with UUIDs can therefore be later
+  combined into a single database without needing to resolve identifier (ID)
+  conflicts.
+
+  Adoption of UUIDs is widespread with many computing platforms providing
+  support for generating UUIDs and for parsing/generating their textual
+  representation.
+
+  Universally unique identifier
+  From Wikipedia, the free encyclopedia
+  http://en.wikipedia.org/wiki/Universally_unique_identifier
+
+What Are They?
+  1 Bit = Binary Digit
+  8 Bits = 1 Byte
+  1024 Bytes = 1 Kilobyte 
+  1024 Kilobytes = 1 Megabyte
+  1024 Megabytes = 1 Gigabyte 
+  1024 Gigabytes = 1 Terabyte 
+  1024 Terabytes = 1 Petabyte 
+  1024 Petabytes = 1 Exabyte
+  1024 Exabytes = 1 Zettabyte 
+  1024 Zettabytes = 1 Yottabyte 
+  1024 Yottabytes = 1 Brontobyte
+  1024 Brontobytes = 1 Geopbyte
+
+  What's A Byte
+  Megabytes, Gugabytes, Terabytes
+  What Are They?
+  http://www.whatsabyte.com/
