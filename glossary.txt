@@ -1,0 +1,16 @@
+glossary.txt
+Created Fri Oct  9 09:47:42 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for filesystem
+
+
+Deduplication - "In computing, data deduplication is a specialized data
+  compression technique for eliminating coarse-grained redundant data,
+  typically to improve storage utilization. In the deduplication process,
+  duplicate data is deleted, leaving only one copy of the data to be stored,
+  along with references to the unique copy of data.  Deduplication is able to
+  reduce the required storage capacity since only the unique data is stored."
+  http://en.wikipedia.org/wiki/Data_deduplication
+
