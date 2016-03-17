@@ -1,0 +1,74 @@
+README
+Created Fri Nov 30 08:24:28 AKST 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filesystem
+
+
+Filelist
+========
+btrfs.txt
+  Btrfs is a new copy on write (CoW) filesystem for Linux aimed at implementing advanced features
+  while focusing on fault tolerance, repair and easy administration.  Jointly developed at Oracle,
+  Red Hat, Fujitsu, Intel, SUSE, STRATO and many others, Btrfs is licensed under the GPL and open
+  for contribution from anyone. 
+  https://btrfs.wiki.kernel.org/index.php/Main_Page  
+
+deduplication.txt
+  "In computing, data deduplication is a specialized data compression  technique for 
+  eliminating coarse-grained redundant data, typically to improve storage utilization. In the 
+  deduplication process, duplicate data is deleted, leaving only one copy of the data to be 
+  stored, along with references to the unique copy of data. Deduplication is able to reduce 
+  the required storage capacity since only the unique data is stored."
+  http://wikipedia.org/wiki/Data_deduplication
+
+distributed-storage.txt
+  Distributed storage notes.
+
+dm-crypt.txt
+  dm-crypt is a transparent disk encryption subsystem in Linux kernel versions 2.6 and later and 
+  in DragonFly BSD.
+
+encrypted.txt
+  Docs on encrypted filesystems.
+
+file_extensions.txt
+  Some nice info on linux file extensions.
+
+fuse.txt
+  "Filesystem in Userspace (FUSE) is a loadable kernel module for Unix-like computer operating
+  systems that lets non-privileged users create their own file systems without editing kernel
+  code. This is achieved by running file system code in user space while the FUSE module
+  provides only a "bridge" to the actual kernel interfaces."
+  http://en.wikipedia.org/wiki/FUSE_%28Linux%29
+
+gfs/
+  GFS filesystem.
+ 
+imapfs.txt
+  IMAPFS is a FUSE filesystem that allows you to store files on an IMAP account
+  http://linux.softpedia.com/get/System/Filesystems/IMAPFS-29821.shtml
+
+jfs/
+  JFS filesystem.
+
+lessfs.txt
+  lessfs - data deduplication for less by mruijter
+  http://fedoraproject.org/wiki/Features/LessFS
+
+links.txt
+  Filesystem related links
+
+ntfs.txt
+  NTFS support under linux
+
+ocfs2
+ OCFS2 filesystem - only Linux clustering filesystem by Oracle.
+ 
+sshfs/
+  sshfs - filesystem client based on SSH File Transfer Protocol
+
+zfs.txt
+  ZFS filesystem info.
+  http://en.wikipedia.org/wiki/ZFS 
