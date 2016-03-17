@@ -1,0 +1,75 @@
+links.txt
+Created Wed Aug 24 09:20:09 AKDT 2011
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filesystem related links
+
+
+Links
+=====
+Ask Slashdot: Best File System For Web Hosting?
+Posted by timothy on Thursday November 29, @06:29PM
+from the use-the-one-with-the-bits dept.
+http://linux.slashdot.org/story/12/11/29/2246217/ask-slashdot-best-file-system-for-web-hosting
+
+Ask Slashdot: Data Remanence Solutions?
+Posted by samzenpus on Wednesday November 23, @02:38PM
+from the disintegration-ray dept. 
+Gotta destroy the disks...
+http://ask.slashdot.org/story/11/11/23/1832248/ask-slashdot-data-remanence-solutions
+
+D-BAN - Darik's Boot And Nuke
+http://www.dban.org/documentation
+
+EPRD - An eventually persistent kernel based ram disk or disk cache.
+http://sourceforge.net/projects/eprd/files/
+
+Finally, there are some interesting articles by Bruce Schneier on alternate means of
+incrimination.
+from: Full Disk Encryption Hard For Law Enforcement To Crack
+http://www.schneier.com/paper-truecrypt-dfs.pdf
+
+Full Disk Encryption Hard For Law Enforcement To Crack
+Posted by timothy on Saturday November 19, @03:10PM
+from the you-say-problem-I-say-potato dept.
+'Research is needed to develop new techniques and technology for breaking
+or bypassing full disk encryption.'
+"plausible deniability"
+http://it.slashdot.org/story/11/11/19/2011228/full-disk-encryption-hard-for-law-enforcement-to-crack
+
+NetworkFileSystems
+Network-oriented Filesystems using FUSE.
+http://sourceforge.net/apps/mediawiki/fuse/index.php?title=NetworkFileSystems#imapfs
+
+openfiler
+Openfiler is a network storage operating system, fronted by
+a web based management user interface.
+http://www.openfiler.com/
+
+TIER - A tiered storage blockdevice
+Tier mailing list : tier-users@lists.sourceforge.net
+http://sourceforge.net/projects/tier/files/
+
+unRAID Server is an embedded Network Attached Storage server
+Operating System designed to boot from a USB Flash device and
+specifically designed for digital media storage:
+o Digital Video
+o Digital Music
+o Digital Images/Photos
+http://lime-technology.com/
+
+Which OSS Clustered Filesystem Should I Use?
+Posted by Unknown Lamer on Monday October 31, @09:02PM
+from the deleting-is-so-90s dept.
+http://linux.slashdot.org/story/11/11/01/011227/which-oss-clustered-filesystem-should-i-use
+
+XtreemFS: A Distributed & Replicated File-System
+Posted by Michael Larabel on August 10, 2011
+http://www.phoronix.com/scan.php?page=news_item&px=OTc3NQ
+
+XtreemFS is an open source distributed and replicated file system for the cloud
+Reads great wonder if it is...
+http://xtreemfs.blogspot.com/
+http://www.xtreemfs.org/
+http://en.wikipedia.org/wiki/XtreemFS
