@@ -1,0 +1,7 @@
+storage.txt
+Created Tue Jan 15 18:52:06 AKST 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Storage is the key to success
+

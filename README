@@ -1,0 +1,39 @@
+README
+Created Wed Oct 14 19:19:24 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+bootable-usb.txt
+  Bootable USB stick
+
+boot-disk/
+drives/
+
+encrypted-filesystem/
+  Encrypted filesystems:
+    encfs
+    ecryptfs
+
+filesystem/
+
+glossary.txt
+  Glossary for storage
+
+grub/
+links.txt
+lvm/
+mass/
+nas/
+optical/
+partitions/
+mraid/
+ssd/
+
+storage.txt
+  Storage
+
+unRAID/
+usb-stick/
+uuid/

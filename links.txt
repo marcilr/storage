@@ -1,0 +1,62 @@
+links.txt
+Created Thu Jan 24 15:08:05 AKST 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Storage related links
+
+
+Links
+=====
+Ask Slashdot: Easiest Way To Consolidate Household Media?
+Posted by timothy on Sunday December 30, @11:24AM
+from the one-way-data-transfer-is-much-simpler dept.
+http://ask.slashdot.org/story/12/12/30/1622253/ask-slashdot-easiest-way-to-consolidate-household-media
+
+Ask Slashdot: Simplifying Encryption and Backup?
+Posted by timothy on Saturday March 23, @12:29PM
+from the write-everything-backwards-but-twice dept.
+http://ask.slashdot.org/story/13/03/23/1628236/ask-slashdot-simplifying-encryption-and-backup
+
+Backup files on Linux with FreeFileSync
+Nice graphical app
+http://linuxaria.com/article/backup-files-on-linux-with-freefilesync
+
+Evernote
+Free online storage of notes.
+http://discussion.evernote.com/topic/19694-what-is-free-version-capacity/
+
+Lime Tech
+Digital Media Storage Solutions
+Makers of unRAID Server
+http://lime-technology.com/
+
+NAS Drives for NAS Servers
+Best performing, highest capacity storage for 1- to 5-Bay NAS Systems.
+http://www.seagate.com/internal-hard-drives/nas-drives/nas-hdd/?cmpid=ppc-_-nas-_-g-_-us-_-4tb-_-b
+
+Nebula Debuts 'Cloud Computer' Based On OpenStack
+Posted by Soulskill on Wednesday April 03, @01:32AM
+from the built-out-of-actual-clouds dept.
+http://slashdot.org/story/13/04/03/034217/nebula-debuts-cloud-computer-based-on-openstack
+
+rackspace
+managed cloud company
+http://www.rackspace.com/managed-cloud/?cm_mmc=cloud-_-displaynam-_-gdn-_-scmmanagedcloud_differentcloud&gclid=COKDuY7M-r8CFYhcMgodhikAcA
+
+rackspace files
+Looks like $0.09/GB/Mo
+Think this is for bandwidth usage.
+http://www.rackspace.com/cloud/files/
+
+rackspace
+Getting Started With Cloud Sites, FTP/SSHFS/FTP Clients
+Article ID: 580 Last updated on May 6, 2014 Authored by: Rackspace Support
+http://www.rackspace.com/knowledge_center/article/getting-started-with-cloud-sites-ftpsshfsftp-clients
+
+unRAID For System Builders...
+Solid info on building a system.
+http://lime-technology.com/home/87-for-system-builders
+
+unRAID Registration Keys
+http://lime-technology.com/products/registration-keys
