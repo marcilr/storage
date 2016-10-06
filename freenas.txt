@@ -3,6 +3,25 @@ Created Wed Oct  5 16:51:46 AKDT 2016
 Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+Required memory
+===============
+The general rule of thumb here is to have 5 GB of memory for every 1TB of
+deduplicated data.  That said, there may be instances where more is required,
+but you will need to plan to meet the maximum potential memory requirements to
+avoid problems down the road.  To get a more precise estimate of the required
+memory for deduplication do the following: run the 'zdb -b (pool name)'
+command for the desired pool to get an idea of the number of blocks required,
+then multiply the 'bp count' by 320 bytes to get your required memory.  If
+it's less than 5GB, still use the 5GB per terabyte of storage rule.  If it's
+higher, go with that number per terabyte.
+--www.freenas.org/blog/freenas-worst-practices/
+
+For 24TB:
+  5x 24 = 120GB
+
+For 48TB:
+  5x 48 = 240GB
+
 Links
 =====
 Crucial internal solid state drives (SSDs)
@@ -32,7 +51,7 @@ http://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html#fn:sa
 Supermicro 2U SuperChassis 216
 These 24x 2.5" SAS3/SATA hard drive chassis rock hard.
 Would need to determine the correct power rating for:
-1TB Crucial MX200 ($307.77) <===
+1TB Crucial MX200 ($307.77) <=== $288 on newegg
 1TB Crucial MX300 ($249.99)
 Given the MX200's use a max of 8.5W then 
 24x8.5W = 204W
