@@ -1,0 +1,11 @@
+disk-info.txt
+Created Thu Dec  1 14:29:34 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Disk information utilities
+
+
+o lsblk
+o hwinfo --disk
+o rescan-scsi-bus.sh   (scsitools package)
