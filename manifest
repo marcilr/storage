@@ -32,4 +32,5 @@
 ssh://git@github.com/marcilr/boot-disk   boot-disk
 ssh://git@github.com/marcilr/inotify     filesystem/inotify
 ssh://git@github.com/marcilr/lvm         lvm
-ssh://git@github.com/marcilr/usb         usb
+
+ssh://htpc/data/git/storage/usb          usb
