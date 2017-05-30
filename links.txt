@@ -30,6 +30,7 @@ FreeNAS - Hardware recommendations (read this first)
 Discussion in 'Hardware' started by cyberjock, Aug 26, 2014.
 o Supermicro is mostly the king here and is about the only brand recommended.
 o Use ECC RAM since this is the only type of RAM recommended for FreeNAS.
+o 8 GB minimum ram for ZFS, the 1 GB per TB.
 o IPMI is awesome. You can remotely connect to your server's video and
   keyboard/mouse inputs.  If you don't want to leave a monitor hooked up
   all of the time this *is* something you should get.  Keep in mind that
