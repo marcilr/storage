@@ -26,6 +26,37 @@ Evernote
 Free online storage of notes.
 http://discussion.evernote.com/topic/19694-what-is-free-version-capacity/
 
+FreeNAS - Hardware recommendations (read this first)
+Discussion in 'Hardware' started by cyberjock, Aug 26, 2014.
+o Supermicro is mostly the king here and is about the only brand recommended.
+o Use ECC RAM since this is the only type of RAM recommended for FreeNAS.
+o IPMI is awesome. You can remotely connect to your server's video and
+  keyboard/mouse inputs.  If you don't want to leave a monitor hooked up
+  all of the time this *is* something you should get.  Keep in mind that
+  adding it after the fact is expensive/impossible so buying a board with
+  it built-in is a major win for you.
+o Intel NIC are supreme, especially with two of them.  Realteks and many
+  other brands are known to not work at all or work very intermittently
+  with FreeBSD/FreeNAS so they aren't recommended.
+o Multiprocessor really isn't required unless you actually plan to run
+  lots of jails, Virtualbox VMs, and the like.  The main reason to consider
+  multiprocessor is the extra RAM slots.
+o The X9SRH-7F ($420) uses the E5-1600/2600v2 CPUs, up to 512GB of RAM, <===
+  has PCI and PCIe 2.0 and 3.0 slots, built-in LSI-2308 SAS 6Gb/sec
+  controller, IPMI and dual Intel Gb LAN. If you are looking at this
+  category you are going to have to spend some cash.  But, the potential
+  wins can be amazing.  If this is for a company that wants performance,
+  expandability in the future, and reliability, this is the board for you.
+  Likewise if you are that home user that plans to go really big with
+  FreeNAS this is the board you should look at.
+  Single socket R (LGA 2011)
+  http://www.supermicro.com/products/motherboard/Xeon/C600/X9SRH-7F.cfm
+https://forums.freenas.org/index.php?threads/hardware-recommendations-read-this-first.23069/
+
+Intel Xeon E5-1620 v2 Quad-Core Processor 3.7GHz 0GT-s 10MB LGA 2011 CPU44; OEM
+price: $320.97 (amazon - May 30, 2017)
+https://www.amazon.com/Intel-E5-1620-Quad-Core-Processor-3-7GHz/dp/B00F3U00FM
+
 Lime Tech
 Digital Media Storage Solutions
 Makers of unRAID Server
@@ -53,6 +84,20 @@ rackspace
 Getting Started With Cloud Sites, FTP/SSHFS/FTP Clients
 Article ID: 580 Last updated on May 6, 2014 Authored by: Rackspace Support
 http://www.rackspace.com/knowledge_center/article/getting-started-with-cloud-sites-ftpsshfsftp-clients
+
+SuperChassis 216BA-R920LPB
+o 2U chassis support for max. motherboard size -
+  13" x 13.68", E-ATX and ATX. Support up to 12"x13" MB
+  with rear 2.5" HDD option installed.
+o 24 x 2.5" hot-swap SAS/SATA drive bay
+o 24-port 2U SAS 6Gbps direct-attached backplane,
+  support up to 24x 2.5-inch SAS2/SATA3 HDD/SSD
+o 1U 920W Redundant Platinum Super Quiet power supply W/PMbus		
+o 7 low-profile expansion slot(s)
+o 3 x 8cm (7000 RPM) hot-swap PWM cooling fan(s)
+o Optional 5 x 6cm fan cooling module for 826B/216B
+price: $1,131.20 (newegg.com - May 30, 2017)
+https://www.supermicro.com/products/chassis/2U/216/SC216BA-R920LPB
 
 unRAID For System Builders...
 Solid info on building a system.
