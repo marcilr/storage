@@ -52,6 +52,15 @@ o The X9SRH-7F ($420) uses the E5-1600/2600v2 CPUs, up to 512GB of RAM, <===
   FreeNAS this is the board you should look at.
   Single socket R (LGA 2011)
   http://www.supermicro.com/products/motherboard/Xeon/C600/X9SRH-7F.cfm
+o The IBM ServeRAID M1015[1], crossflashed to IT mode[2], is probably one of the
+  best choices available if you need a bunch of extra SATA/SAS ports.
+  It does take an extra ~12 watts however.  Don't buy it new.  They're
+  available cheap on eBay all the time.
+[1] IBM ServeRAID M1015
+    http://www.redbooks.ibm.com/abstracts/tips0740.html
+    ===> ???
+[2] crossflashed to IT mode
+    http://forums.freenas.org/showthread.php?11901-Confused-about-that-LSI-card-Join-the-crowd
 https://forums.freenas.org/index.php?threads/hardware-recommendations-read-this-first.23069/
 
 Intel Xeon E5-1620 v2 Quad-Core Processor 3.7GHz 0GT-s 10MB LGA 2011 CPU44; OEM
@@ -99,6 +108,11 @@ o 3 x 8cm (7000 RPM) hot-swap PWM cooling fan(s)
 o Optional 5 x 6cm fan cooling module for 826B/216B
 price: $1,131.20 (newegg.com - May 30, 2017)
 https://www.supermicro.com/products/chassis/2U/216/SC216BA-R920LPB
+
+ServeRAID M1015 SAS/SATA Controller
+A new level of reliability, availability and performance
+o Up to 32 SAS and/or SATA drives
+https://www.lenovo.com/images/products/system-x/pdfs/datasheets/serveraid_m1015_sas_sata_controller_ds.pdf
 
 unRAID For System Builders...
 Solid info on building a system.
