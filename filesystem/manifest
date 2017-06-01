@@ -30,6 +30,9 @@
 # Filesystem
 #
 # =====================================================================
+
 # inotify - monitoring filesystem events
 ssh://git@github.com/marcilr/inotify   inotify
 
+# Zettabyte File System
+ssh://git@github.com/marcilr/zfs   zfs
