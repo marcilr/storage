@@ -34,4 +34,5 @@ ssh://git@github.com/marcilr/freenas     freenas
 ssh://git@github.com/marcilr/inotify     filesystem/inotify
 ssh://git@github.com/marcilr/lvm         lvm
 
+ssh://htpc/data/git/storage/nas/nas      nas
 ssh://htpc/data/git/storage/usb          usb
