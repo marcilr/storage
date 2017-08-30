@@ -32,8 +32,6 @@ ssh://git@github.com/marcilr/boot-disk       boot-disk
 ssh://git@github.com/marcilr/filesystem      filesystem
 ssh://git@github.com/marcilr/freenas         freenas
 ssh://git@github.com/marcilr/lvm             lvm
-
-ssh://htpc/data/git/storage/nas/nas          nas
-ssh://htpc/data/git/storage/nas/supermicro   nas/supermicro
+ssh://git@github.com/marcilr/nas             nas
 
 ssh://htpc/data/git/storage/usb              usb
