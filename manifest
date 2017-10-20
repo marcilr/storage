@@ -16,7 +16,6 @@
 # =====================================================================
 # =====================================================================
 #
-# Private htpc repositories
 # Public GitHub repositories
 #
 # =====================================================================
@@ -29,9 +28,19 @@
 # Storage
 #
 # =====================================================================
+<<<<<<< HEAD
 ssh://git@github.com/marcilr/boot-disk   boot-disk
 ssh://git@github.com/marcilr/freenas     freenas
 ssh://git@github.com/marcilr/inotify     filesystem/inotify
 ssh://git@github.com/marcilr/lvm         lvm
 ssh://git@github.com/marcilr/nas         nas
 ssh://git@github.com/marcilr/usb         usb
+=======
+ssh://git@github.com/marcilr/boot-disk    boot-disk
+ssh://git@github.com/marcilr/filesystem   filesystem
+ssh://git@github.com/marcilr/inotify      filesystem/inotify
+ssh://git@github.com/marcilr/freenas      freenas
+ssh://git@github.com/marcilr/lvm          lvm
+ssh://git@github.com/marcilr/nas          nas
+ssh://git@github.com/marcilr/usb          usb
+>>>>>>> af30e7b4907167ae8b321a499cd15586ef1be6ac
