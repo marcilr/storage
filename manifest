@@ -29,6 +29,7 @@
 #
 # =====================================================================
 ssh://git@github.com/marcilr/boot-disk    boot-disk
+ssh://git@github.com/marcilr/chassis      chassis
 ssh://git@github.com/marcilr/filesystem   filesystem
 ssh://git@github.com/marcilr/freenas      freenas
 ssh://git@github.com/marcilr/lvm          lvm
