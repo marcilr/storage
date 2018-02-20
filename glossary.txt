@@ -20,6 +20,37 @@ AHCI - The Advanced Host Controller Interface (AHCI) is a technical standard
   
   http://en.wikipedia.org/wiki/Advanced_Host_Controller_Interface
 
+NAS (Network-attached storage) - A NAS unit is a computer connected
+  to a network that provides only file-based data storage services
+  to other devices on the network.  Although it may technically be
+  possible to run other software on a NAS unit,  it is usually not
+  designed to be a general-purpose server.  For example, NAS units
+  usually do not have a keyboard or display, and are controlled and
+  configured over the network, often using a browser.[4]
+
+  A full-featured operating system is not needed on a NAS device,
+  so often a stripped-down operating system is used.  For example,
+  FreeNAS or NAS4Free, both open source NAS solutions designed
+  for commodity PC hardware, are implemented as a stripped-down
+  version of FreeBSD.
+
+  NAS systems contain one or more hard disk drives, often
+  arranged into logical, redundant storage containers or RAID.
+
+  NAS uses file-based protocols such as NFS (popular on UNIX
+  systems), SMB/CIFS (Server Message Block/Common Internet File
+  System) (used with MS Windows systems), AFP (used with Apple
+  Macintosh computers), or NCP (used with OES and Novell
+  NetWare). NAS units rarely limit clients to a single
+  protocol.
+
+  [4] ^"An Introduction to Network Attached Storage",
+  HWM magazine, Jul 2003. ISSN 0219-5607. Published by SPH Magazines. p. 90-92
+
+  Network-attached storage
+  From Wikipedia, the free encyclopedia
+  https://en.wikipedia.org/wiki/Network-attached_storage
+
 UUID - Universally Unique Identifier (UUID) is an identifier standard used in
   software construction.  A UUID is simply a 128-bit value.  The meaning of
   each bit is defined by any of several variants.
