@@ -37,6 +37,9 @@ optical/
 partitions/
 mraid/
 
+raid/
+  Redundant Array of Inexpensive Disks)
+
 ssd/
   Solid State Storage Device
 
