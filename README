@@ -36,7 +36,9 @@ nas/
 optical/
 partitions/
 mraid/
+
 ssd/
+  Solid State Storage Device
 
 storage.txt
   Storage
