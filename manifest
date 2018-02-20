@@ -36,5 +36,6 @@ ssh://git@github.com/marcilr/freenas       freenas
 ssh://git@github.com/marcilr/lvm           lvm
 ssh://git@github.com/marcilr/mobos         mobos
 ssh://git@github.com/marcilr/nas           nas
+ssh://git@github.com/marcilr/raid          raid
 ssh://git@github.com/marcilr/ssd           ssd
 ssh://git@github.com/marcilr/usb           usb
