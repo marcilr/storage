@@ -13,15 +13,6 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
-# =====================================================================
-# =====================================================================
-#
-# Public GitHub repositories
-#
-# =====================================================================
-# =====================================================================
-
-
 
 # =====================================================================
 #
@@ -35,6 +26,7 @@ ssh://git@github.com/marcilr/filesystem    filesystem
 ssh://git@github.com/marcilr/freenas       freenas
 ssh://git@github.com/marcilr/lvm           lvm
 ssh://git@github.com/marcilr/mobos         mobos
+ssh://git@github.com/marcilr/parted        parted
 ssh://git@github.com/marcilr/raid          raid
 ssh://git@github.com/marcilr/ram           ram
 ssh://git@github.com/marcilr/ssd           ssd
