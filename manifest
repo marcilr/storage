@@ -31,3 +31,4 @@ ssh://git@github.com/marcilr/raid          raid
 ssh://git@github.com/marcilr/ram           ram
 ssh://git@github.com/marcilr/ssd           ssd
 ssh://git@github.com/marcilr/usb           usb
+ssh://git@github.com/marcilr/vmware        vmware
