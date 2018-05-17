@@ -19,6 +19,7 @@
 # Storage
 #
 # =====================================================================
+ssh://git@github.com/marcilr/3ware         3ware
 ssh://git@github.com/marcilr/boot-disk     boot-disk
 ssh://git@github.com/marcilr/chassis       chassis
 ssh://git@github.com/marcilr/controllers   controllers
