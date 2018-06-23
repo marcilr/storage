@@ -6,11 +6,6 @@ Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
 Storage related links
 
 
-Casetronic F2300
-Pretty darn nice 2U box with 3x PCIe slots
-http://www.casetronic.com/corporates/195-f2300.html
-
-
 Links
 =====
 Ask Slashdot: Easiest Way To Consolidate Household Media?
