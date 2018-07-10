@@ -8,3 +8,6 @@ Filelist
 disk-info.txt
   Disk information utilities
 
+lsblk.txt
+  lsblk - list block devices
+  Great command for listing drives.
