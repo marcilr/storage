@@ -1,0 +1,10 @@
+# .gitignore
+# Created Sun Apr 28 13:21:57 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Links
+# =====
+# gitignore - Specifies intentionally untracked files to ignore
+# https://git-scm.com/docs/gitignore
+#
+ssd/
